@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import WordCard from './WordCard';
 
-const word = "Hello";
+const word = "chin";
 class App extends Component {
   render() {
     return (
