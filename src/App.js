@@ -3,11 +3,11 @@ import logo from './logo.svg';
 import './App.css';
 import WordCard from './WordCard';
 
-const word = "chin";
+const word = "HELLO";
 class App extends Component {
   render() {
     return (
-    <div className="activecard">
+    <div className="activeCard">
     <WordCard value={word}/>
     </div>
     );
